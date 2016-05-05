@@ -1276,7 +1276,7 @@ EOF
 #[$HOSTNAME-$INTERFACE]   
 #type=worker
 #host=localhost
-#inter#face=$INTERFACE
+#interface=$INTERFACE
 #lb_method=pf_ring
 #lb_procs=$BRO_LB_PROCS
 
